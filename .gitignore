@@ -4,3 +4,15 @@ docs/.vuepress/.cache
 docs/.vuepress/dist
 docs/_temp
 docs/_gsdata_
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+
+package-lock.json
+yarn.lock
