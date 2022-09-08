@@ -99,7 +99,7 @@ export default hopeTheme({
     comment: {
       //部署 Waline：https://waline.js.org/guide/get-started.html
       provider: "Waline",
-      serverURL: "https://waline.newzone.top",
+      serverURL: "https://day-day-up-blog-waline-zffumf5pb-a2981696426.vercel.app/",
       pageview: true,
       //Waline 等级标签
       walineLocales: {
