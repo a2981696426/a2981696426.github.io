@@ -4,7 +4,7 @@ title: 知识管理
 icon: read
 ---
 
-阅读技巧：《打造第二大脑》[（Building a Second Brain）](https://www.buildingasecondbrain.com/)、[I.A.R.P规划标签](https://help.flomoapp.com/thinking/iarp.html)
+相关资料：《打造第二大脑》[（Building a Second Brain）](https://www.buildingasecondbrain.com/)、[I.A.R.P规划标签](https://help.flomoapp.com/thinking/iarp.html)
 
 ## 前言
 

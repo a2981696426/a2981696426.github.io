@@ -9,8 +9,8 @@ export default hopeTheme({
   hostname: "https://newzone.top",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "木杉",
+    url: "https://a2981696426.github.io",
   },
 
   iconAssets: "iconfont",
@@ -70,8 +70,8 @@ export default hopeTheme({
   //https://vuepress-theme-hope.github.io/v2/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "Category", "Tag", "ReadingTime", "PageView"],
-    name: "清顺",
-    avatar: "/avatar_self.webp",
+    name: "木杉",
+    avatar: "https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/admin_avatar.JPG",
     description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
     intro: "/intro.html",
     roundAvatar: true,
