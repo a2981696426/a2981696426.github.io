@@ -71,20 +71,20 @@ export default hopeTheme({
   blog: {
     articleInfo: ["Date", "Category", "Tag", "ReadingTime", "PageView"],
     name: "木杉",
-    avatar: "https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/admin_avatar.JPG",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    avatar: "/admin_avatar.png",
+    description: "我是悲观主义者。别人为胜利而战，我不是。我总是战斗，偶尔会赢。",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      GitHub: "https://github.com/rockbenben",
-      Zhihu: "https://www.zhihu.com/people/qingwhat",
-      Weibo: "https://weibo.com/u/1992817087",
+      GitHub: "https://github.com/a2981696426",
+      Zhihu: "https://www.zhihu.com/",
+      Weibo: "https://weibo.com/",
       Wechat: "http://tc.seoipo.com/wechat.svg",
       少数派: [
-        "https://sspai.com/u/zqj05i4v/posts",
+        "https://sspai.com/",
         path.resolve(__dirname, "icons/sspai.svg"),
       ],
-      RSS: "https://newzone.top/rss.xml",
+      RSS: "https://a2981696426.github.io/rss.xml",
     },
   },
 
