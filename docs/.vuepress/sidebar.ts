@@ -54,6 +54,14 @@ export default sidebar([
     children: "structure",
   },
   {
+    text: "📖 知识管理",
+    icon: "",
+    prefix: "/KMS/",
+    link: "",
+    collapsable: true,
+    children: "structure",
+  },
+  {
     text: "🛖 生活",
     icon: "",
     prefix: "/family/",
