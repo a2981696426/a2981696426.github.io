@@ -71,7 +71,7 @@ export default hopeTheme({
   blog: {
     articleInfo: ["Date", "Category", "Tag", "ReadingTime", "PageView"],
     name: "木杉",
-    avatar: "/admin_avatar.png",
+    avatar: "https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/admin_avatar.png",
     description: "我是悲观主义者。别人为胜利而战，我不是。我总是战斗，偶尔会赢。",
     intro: "/intro.html",
     roundAvatar: true,
