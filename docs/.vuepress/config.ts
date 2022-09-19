@@ -9,6 +9,8 @@ import { feedPlugin } from "vuepress-plugin-feed2";
 import { path } from "@vuepress/utils";
 import theme from "./theme";
 
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
+
 export default defineUserConfig({
   //网站语言，默认为中文
   lang: "zh-CN",
@@ -47,6 +49,10 @@ export default defineUserConfig({
       hostname: "https://newzone.top",
       rss: true,
       count: 10,
+    }),
+    mdEnhancePlugin({
+      // 启用脚注
+      footnote: true,
     }),
   ],
 });

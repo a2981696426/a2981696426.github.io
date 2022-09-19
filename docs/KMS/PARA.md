@@ -16,7 +16,7 @@ icon: module
 
 ![P.A.R.A 的定义](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_definition.png)
 
-- Project：明确 **目标** 和 **时间范围**，最小执行单位<Badge text="演示" />
+- Project：明确 **目标** 和 **时间范围**，最小执行单位
 - Area：需要长期维护的「事务空间」，最重要的概念
 - Resource：感兴趣的内容，作为 Area 的外部知识储备
 - Archive：整合 Inbox/List 的功能，临时性、未消化内容的缓冲区，定期归档
