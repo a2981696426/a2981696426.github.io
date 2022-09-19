@@ -13,7 +13,7 @@ export default defineUserConfig({
   //网站语言，默认为中文
   lang: "zh-CN",
   //网站标题
-  title: "木杉",
+  title: "心有小筑",
   //网站描述
   description: "收集数据 ➡️ 处理信息 ➡️ 沉淀知识 ➡️ 培养直觉 ➡️ 建立思维体系",
 

@@ -1,6 +1,6 @@
 ---
 article: false
-title: 木杉的知识库
+title: 知识库分享
 icon: note
 ---
 
