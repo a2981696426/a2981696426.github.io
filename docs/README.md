@@ -10,7 +10,7 @@ icon: note
 
 **数据 ➡️ 信息 ➡️ 知识 ➡️ 直觉 ➡️ 思维体系 是个缓慢渐进的内化过程，需要不断实践反复思考。**
 
-因此，我基于 VuePress 和 vuepress-theme-hope 建立了 LearnData，将所有笔记与文章聚合在同一页面形成知识库，方便自己使用和分享输出。
+基于 VuePress 和 vuepress-theme-hope 搭建了 Blog，将所有笔记与文章聚合在同一页面形成知识库，方便自己使用和分享输出。
 
 ![](http://tc.seoipo.com/2022-08-22-19-28-25.png?imageMogr2/thumbnail/!80p "笔记 + 文章 = LearnData 知识库")
 
