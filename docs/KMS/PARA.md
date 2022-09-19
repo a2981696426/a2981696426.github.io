@@ -56,7 +56,7 @@ icon: module
 > "收入是一连串的事件。" —— 欧文 · 费雪《利息理论》
 
 - 人生同样是由事件构成的，有 Project 而缺乏 Area 的聚焦
-- 创建一个 <font color="#FF8C00"><u>Project List</u></font><br>
+- 创建一个 <div style="color: #FF8C00"><u>Project List</u></div><br>
   确立自己的能力边界，制定清晰计划——决定做不做、怎么做、弥补或放弃。
 - 区分 Project 和 Area，若 Project 定义模糊：
   - 对自己的能力边界一无所知，无法作出判断和承诺
@@ -64,7 +64,7 @@ icon: module
     - 特定时间内该做哪些项目
     - 短期项目与长期项目的正确组合是怎样的
   - 项目是有实际目标和**结果**的，而非模糊的**责任**
-  - <font color="#FF8C00"><u>目前的努力和长期目标没有关联</u></font><br>
+  - <div style="color: #FF8C00"><u>目前的努力和长期目标没有关联</u></div><br>
     ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_goals.png)
     - 知识工作更多需要积极的态度
     - Area 很少有重大变化，尤其是社会角色包含的责任清单，可能会持续不断地增加，导致热情消失，所以需要项目的「小型化」
@@ -74,5 +74,5 @@ icon: module
     ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_relationship.png)
     - Area 中的 Project 围绕核心母题都不是孤立的行为，而 Area 就是由一连串事件组成的，其中包含 每个 Project 的资源，而你需要抽丝剥茧形成思维体系
   - Project 和 Area 需要完全不同的思维方式
-    - Project 需要聚焦方向，冲破障碍，忽略干扰<br>而 Area 需要心态平衡、交流沟通、人际关系<br><font color="#FF8C00"><u>每个 Area 需要自察和反省，因为确定自己是否达到了标准是一项直觉型工作而非分析型。</u></font>
+    - Project 需要聚焦方向，冲破障碍，忽略干扰<br>而 Area 需要心态平衡、交流沟通、人际关系<br><div style="color: #FF8C00"><u>每个 Area 需要自察和反省，因为确定自己是否达到了标准是一项直觉型工作而非分析型。</u></div>
     - 将 Project List 与 Goal List 进行匹配，剔除其中缺失 Goal 的 Project，因为这不是你真正想要的<br>**没有想要结果的 Project 只是兴趣爱好。**

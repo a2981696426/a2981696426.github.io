@@ -1,4 +1,4 @@
-> integrity（正直）<br> intelligence（智慧）<br> initiative（自发）
+> 知识管理、内容分享、自我提升
 
 <!-- TABLE OF CONTENTS 有序为<ol>，无序为<ul> -->
 <details>
