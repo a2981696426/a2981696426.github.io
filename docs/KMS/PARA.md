@@ -77,5 +77,40 @@ icon: module
       ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_dream.png)
     - 从第三方理性的角度评判自己的想法和行为，摒弃对自身成长没有帮助的事件，保持对核心内容的掌控力。[^1]
 
+## 如何开始
 
-[^1]: This is the first footnote. 
+### 0.厘清自己的 Area
+
+> Set your course by the stars, not by the lights of passing ships. —— Omar Bradley<br>
+> 按照星星，而不是按照过往船只的灯光设定航向。
+
+- 不必按部就班、随波逐流，对自己设限，每个人都可以有属于自己的节奏。
+- **坦然面对自己的内心**，年轻时往往被世俗的功名所裹挟，难以找到自己真正想做的事，一旦到了中年就会陷入迷茫，有两种解决办法：
+  - 设立宏大的目标——写一本书、开家公司、持续行善
+  - 只关注当下，忽略过去和未来，迷茫的主要原因就是对未来未知的焦虑和对已逝过去的懊悔
+- **自己希望成为什么样的人，远比他人希望你是什么样的人重要**
+- 将时间视为资产，你的行为映射了你的投资策略，其实你能利用的时间十分有限[^2]<br>
+  把鸡蛋放在一个篮子还是多个篮子里？是追求收益最大化还是保本即可？<br>
+  <span style="color: #FF8C00"><u>时间和金钱唯一的不同就是没有任何「储蓄」手段</u></span>
+
+### 1.定义 Project List
+
+- 定义你的 Project，否则他们会定义你。——你会不断地被推着、拉着到别人的 Project 中去，Project 定义不清晰即便有人想帮助你，你也无从下手安排；
+- 万能的通用工具是不存在的，但是通用的 Project List 可以适用现在和将来使用的所有工具；
+  ![在每个工具中复制完全相同的 Project List](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_tools.png)
+- P.A.R.A特性：集中时的一致性，分散时的适应性。
+
+### 2.建立 Project List
+
+- “噪音”太多会让人失去方向，**收集完整的 List 是获取控制权的第一步**[^3]
+<details>
+    <summary>导出所有想法（清空大脑）</summary>
+    <ul>
+      <li>你的想法</li>
+      <li>你的想法</li>
+    </ul>
+</details>
+
+[^1]: 关于“元认知”相关内容需要进行补充。
+[^2]: 相关链接：[Dead time & Live time](https://pmthinking.notion.site/Dead-time-Live-time-b3237b1cd7fb45978f39d02f845af766)。
+[^3]: 关键词：GTD
