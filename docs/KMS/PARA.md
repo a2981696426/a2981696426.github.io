@@ -16,7 +16,7 @@ icon: module
 
 ![P.A.R.A 的定义](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_definition.png)
 
-- Project：明确 **目标** 和 **时间范围**，最小执行单位
+- Project：明确 **目标** 和 **时间范围**，最小执行单位<Badge text="演示" />
 - Area：需要长期维护的「事务空间」，最重要的概念
 - Resource：感兴趣的内容，作为 Area 的外部知识储备
 - Archive：整合 Inbox/List 的功能，临时性、未消化内容的缓冲区，定期归档
@@ -72,3 +72,7 @@ icon: module
   - Project 和 Area 需要完全不同的思维方式
     - Project 需要聚焦方向，冲破障碍，忽略干扰<br>而 Area 需要心态平衡、交流沟通、人际关系<br><div style="color: #FF8C00"><u>每个 Area 需要自察和反省，因为确定自己是否达到了标准是一项直觉型工作而非分析型。</u></div>
     - 将 Project List 与 Goal List 进行匹配，剔除其中缺失 Goal 的 Project，因为这不是你真正想要的<br>**没有想要结果的 Project 只是兴趣爱好。**
+      ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_goalslist.png)
+    - 而有目标没有相应 Project 则更加难以实现，缺乏 Project 实践的 Goal 本质上不会有任何进展
+      ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_dream.png)
+    - 从第三方理性的角度评判自己的想法和行为，摒弃对自身成长没有帮助的事件，保持对核心内容的掌控力。
