@@ -65,6 +65,14 @@ icon: module
     - 短期项目与长期项目的正确组合是怎样的
   - 项目是有实际目标和**结果**的，而非模糊的**责任**
   - <font color="#FF8C00"><u>目前的努力和长期目标没有关联</u></font><br>
+    ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_goals.png)
     - 知识工作更多需要积极的态度
     - Area 很少有重大变化，尤其是社会角色包含的责任清单，可能会持续不断地增加，导致热情消失，所以需要项目的「小型化」
-  - 将 Area 分解成大小不一的 Project 
+  - 将 Area 分解成大小不一的 Project，确保 ProjectList 每周更新，创造完成项目的动力
+  - 不必完全接受你的 manager、team、organization 对 Project 的定义
+  - 你很难知道自己是否朝着目标前进
+    ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_relationship.png)
+    - Area 中的 Project 围绕核心母题都不是孤立的行为，而 Area 就是由一连串事件组成的，其中包含 每个 Project 的资源，而你需要抽丝剥茧形成思维体系
+  - Project 和 Area 需要完全不同的思维方式
+    - Project 需要聚焦方向，冲破障碍，忽略干扰<br>而 Area 需要心态平衡、交流沟通、人际关系<br><font color="#FF8C00"><u>每个 Area 需要自察和反省，因为确定自己是否达到了标准是一项直觉型工作而非分析型。</u></font>
+    - 将 Project List 与 Goal List 进行匹配，剔除其中缺失 Goal 的 Project，因为这不是你真正想要的<br>**没有想要结果的 Project 只是兴趣爱好。**
