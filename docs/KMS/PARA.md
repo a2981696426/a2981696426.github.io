@@ -60,7 +60,7 @@ icon: module
     - 特定时间内该做哪些项目
     - 短期项目与长期项目的正确组合是怎样的
   - 项目是有实际目标和**结果**的，而非模糊的**责任**
-  - <div style="color: #FF8C00"><u>目前的努力和长期目标没有关联</u></div><br>
+  - <span style="color: #FF8C00"><u>目前的努力和长期目标没有关联</u></span>
     ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_goals.png)
     - 知识工作更多需要积极的态度
     - Area 很少有重大变化，尤其是社会角色包含的责任清单，可能会持续不断地增加，导致热情消失，所以需要项目的「小型化」
