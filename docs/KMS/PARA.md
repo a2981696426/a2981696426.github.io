@@ -75,4 +75,7 @@ icon: module
       ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_goalslist.png)
     - 而有目标没有相应 Project 则更加难以实现，缺乏 Project 实践的 Goal 本质上不会有任何进展
       ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_dream.png)
-    - 从第三方理性的角度评判自己的想法和行为，摒弃对自身成长没有帮助的事件，保持对核心内容的掌控力。
+    - 从第三方理性的角度评判自己的想法和行为，摒弃对自身成长没有帮助的事件，保持对核心内容的掌控力。[^1]
+
+
+[^1]: This is the first footnote. 
