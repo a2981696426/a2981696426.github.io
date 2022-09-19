@@ -13,9 +13,9 @@ export default defineUserConfig({
   //网站语言，默认为中文
   lang: "zh-CN",
   //网站标题
-  title: "木杉's Blog",
+  title: "木杉",
   //网站描述
-  description: "开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。",
+  description: "收集数据 ➡️ 处理信息 ➡️ 沉淀知识 ➡️ 培养直觉 ➡️ 建立思维体系",
 
   //网站路径，默认为 /，如果非主域名，需改为
   base: "/",
