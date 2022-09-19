@@ -12,8 +12,6 @@ icon: module
 
 ## P.A.R.A
 
----
-
 ### 定义
 
 ![P.A.R.A 的定义](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_definition.png)
@@ -50,8 +48,6 @@ icon: module
 - Area 的精进 需要不断吸收外部有效信息的同时进行阶段性创作，创作的主题涵盖 Area 的拆分、Project的抽象和总结，通过 Project（实践）和 Resource（外部参考、经验、方法论）进行。
 
 ## Project 与 Area 的关系
-
----
 
 > "收入是一连串的事件。" —— 欧文 · 费雪《利息理论》
 
