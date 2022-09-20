@@ -106,11 +106,79 @@ icon: module
 <details>
     <summary>导出所有想法（清空大脑）</summary>
     <ul>
-      <li>你的想法</li>
-      <li>你的想法</li>
+      <li>你的想法：纠正偏离预定轨道/目标的 Project，例如困扰是否应列为 Project、花费过多时间/精力的 Project、需要做/可以从中获益但还没做的 Project</li>
+      <li>待办事项：还没有确定的较大项目，采取了那些行动（例如：考个驾照）</li>
+      <li>议程/日程：Project 计划过程中需要进行的补充（比如下周进行 Team building 的议题）</li>
+      <li>未完待续：桌面上未读完的文件、看到一半的书、微信待回复的红点等</li>
+      <li>能力建设：想学习的技能、兴趣爱好、推动事业发展或提升生活品质的 Project</li>
+      <li>发散性思维：你想学习、开发、建立、投入、追求、开始、探险的 Project</li>
+      <li>周期性流程：优化工作或生活中固定流程的效率，经常做的事情中不理智浪费时间的行为或习惯，比如购物</li>
     </ul>
 </details>
+<details>
+    <summary>保存有价值的内容</summary>
+    <ul>
+      <li>在未来拥有价值——灵感、启发、工具</li>
+      <li>具备长期重温的价值</li>
+      <li>未来不可复制的</li>
+    </ul>
+</details>
+<details>
+    <summary>完善 Project List</summary>
+    <ul>
+      <li>删除非 Project 内容</li>
+      <li>合并近似内容</li>
+      <li>Project 添加日期时间提醒</li>
+      <li>将截止日期、最终目标 模糊的 Project 置于最下方以减少干扰</li>
+    </ul>
+</details>
+<details>
+    <summary>确定时间和目标</summary>
+    <ul>
+      <li>明确目标：例如预约挂号➡️目标：解决脱发</li>
+      <li>截止日期：可能不准确，但可以实时调整并了解自己的能力范围</li>
+      <li>使用动词：量化 Project，有明确动作的动词，而管理、监督、确保等模糊动词则可能是责任区间</li>
+    </ul>
+</details>
+<details>
+    <summary>按优先级排序并审视结果</summary>
+    <ul>
+      <li>区分 Project 和 Task，若优先级轻易改变可能正在做的是 Task 而非 Project</li>
+      <li>每周伊始审视排序，有效分配不同目标的精力</li>
+    </ul>
+</details>
+
+### 3.告别过去
+
+1. 将所有文件移动到一个新的文件夹中，命名为“归档[今天日期]”
+2. 为当前的每个项目建文件夹
+3. 将所有项目文件夹移动到新文件夹，命名为“项目”
+4. 创建一个新的“归档”文件夹
+5. 谨慎创建新文件夹
+
+## 日常维护
+
+### 1.保持信息在各个模块间的循环
+
+- P.A.R.A是一个动态系统，其效能不来源于深层次的知识储备，而是遵循严格规则和惯例的信息流动
+  ![](https://cdn.jsdelivr.net/gh/a2981696426/image_store@master/Blog/blog_cms_dynamic.png)
+- **Project 的快速更替是维持系统的实际机制**
+- 人的思维方式是网状的，创建太多不被使用的文件夹只会挤压工作空间[^4]
+- Project 和 Area 间会经常变化，例如产品上线后效果不错成为需要长期维护的系统
+- Area 和 Resource 间也会变化，比如兴趣爱好升级为副业
+- 不要吝啬使用 Archive，也不要当作垃圾箱，在其中寻找过去的智慧而不是重复造轮子
+
+### 2.将 P.A.R.A 维护融入生活
+
+- **不要抽取大量额外时间维护P.A.R.A，这违反了开发的初衷**：
+  - “整理”工作没有显性回报
+  - Project 中没有留给“整理”的时间，需要争分夺秒赶工期
+  - Project 结束后会有下一个 Project，而没有专门用于“整理”的Project
+  - 而“整理”工作拖延到最后就会导致系统性崩溃，
+- “及时组织”（Just-In-Time Organization）——小且精而非大且广地修改，不要将“整理”视作努力方向
+- 不需要担心犯错，不必确保完成，频繁使用P.A.R.A来进行优化形成属于自己地思维结构
 
 [^1]: 关于“元认知”相关内容需要进行补充。
 [^2]: 相关链接：[Dead time & Live time](https://pmthinking.notion.site/Dead-time-Live-time-b3237b1cd7fb45978f39d02f845af766)。
 [^3]: 关键词：GTD
+[^4]: 相关链接：[我们如何获取信息，组织知识](https://pmthinking.notion.site/619b68d4a9184080a9429f24724e8c0a)
