@@ -1,6 +1,6 @@
 ---
 article: false
-title: P.A.R.A 的实践
+title: P.A.R.A 系统
 icon: module
 ---
 
@@ -204,7 +204,7 @@ icon: module
 ### Resource & List 设定
 
 - <span style="color: rgba(255, 140, 0, 1)">Resource 中包含的是尚未成为 Area 的内容，有随笔、兴趣爱好等，和 List 关联</span>
-- List 则作为缓存区，收集所有摘录的内容，通过 Save to Notion 插件将网页内容剪切到 List 数据库[^5] 
+- List 则作为缓存区，收集所有摘录的内容，通过 Save to Notion 插件将网页内容剪切到 List 数据库[↗️分类方法参考](https://a2981696426.github.io/KMS/Progressive%20Summarization.html)[^5] 
 - 分类是为了聚焦
 
 ### Index 设定
