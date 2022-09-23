@@ -115,6 +115,7 @@ icon: module
       <li>周期性流程：优化工作或生活中固定流程的效率，经常做的事情中不理智浪费时间的行为或习惯，比如购物</li>
     </ul>
 </details>
+<br>
 <details>
     <summary>保存有价值的内容</summary>
     <ul>
@@ -123,6 +124,7 @@ icon: module
       <li>未来不可复制的</li>
     </ul>
 </details>
+<br>
 <details>
     <summary>完善 Project List</summary>
     <ul>
@@ -132,6 +134,7 @@ icon: module
       <li>将截止日期、最终目标 模糊的 Project 置于最下方以减少干扰</li>
     </ul>
 </details>
+<br>
 <details>
     <summary>确定时间和目标</summary>
     <ul>
@@ -140,6 +143,7 @@ icon: module
       <li>使用动词：量化 Project，有明确动作的动词，而管理、监督、确保等模糊动词则可能是责任区间</li>
     </ul>
 </details>
+<br>
 <details>
     <summary>按优先级排序并审视结果</summary>
     <ul>
@@ -178,7 +182,125 @@ icon: module
 - “及时组织”（Just-In-Time Organization）——小且精而非大且广地修改，不要将“整理”视作努力方向
 - 不需要担心犯错，不必确保完成，频繁使用P.A.R.A来进行优化形成属于自己地思维结构
 
+## Notion 案例展示
+
+### Project 设定
+
+- 一个 Project 需要一连串动作，单一事件不会纳入其中
+- 将各个 Area 的 Project 都新建在一起，通过关联 Area 数据库实现分类，通过 filter 、 view 进行筛选和视图切换
+- Project 属性：
+  - 事项：Project 名称，简洁明了
+  - Area 关联：Project 数据库中关联 Area 数据库
+  - 状态：未开工、进行中、跟进中（需要时间积累或主要推进者与我相关）、已完成
+  - 优先级：一星到三星
+  - 时间：计划时间和创建时间
+  - 分类：tags，细化 Area 分类（例如：编程是个巨大的 Area，tags可以细分为Java开发、网络工具等）
+
+### Area 设定
+
+- 少而精，主要用于统筹观察自己的精力分布
+- 关于 Area 的思考会直接在该 Area 的 Page 上进行编辑而不是新建 Project 关联，更便于查找
+
+### Resource & List 设定
+
+- <span style="color: rgba(255, 140, 0, 1)">Resource 中包含的是尚未成为 Area 的内容，有随笔、兴趣爱好等，和 List 关联</span>
+- List 则作为缓存区，收集所有摘录的内容，通过 Save to Notion 插件将网页内容剪切到 List 数据库[^5] 
+- 分类是为了聚焦
+
+### Index 设定
+
+- 个人工作台，全局角度查看所有 Project 进展，作为每天工作的起点
+  - 链接 Project 数据库
+  - 单独的 MindCache 页面缓存自己的想法
+  - QuickLink 链接最近着手进行和关注的内容
+- 每周日规划下周安排——新建 Project 并与 Area 关联，复盘 MindCache 后归档
+
+## 向大厨学习终极原则：mise en place
+
+- mise en place，法语中意指”**在烹饪前，准备好所有材料，摆放在一个让你一眼就能看到的地方。**“这样做的原因：
+  - 第一，让厨师拥有对这道菜的大局观，不容易遗漏食材和步骤
+  - 第二，让厨师更专注于烹饪本身，不受其他外界因素干扰
+  - 第三，让这道菜更能体现厨师真正的技术水准
+- 优秀系统的原则：
+<details>
+  <summary>按可操作性组织</summary>
+  <ul>
+    <li>显然，厨房并不根据种类处理和保存食材，例如新鲜水果往往直接摆放在触手可及的地方，而干果果汁等则需要密封或冷藏保存</li>
+  </ul>
+</details>
+<br>
+<details>
+  <summary>理性分配时间</summary>
+  <ul>
+    <li>P.A.R.A是自下而上的，保持开放的态度对待方向的改变，以避免浪费时间在方向有问题的前期工作上。</li>
+    <li>厨师的“清洁”工作同样如此，随着工作的推进融入其中，而不是在深夜的某个时刻一次性处理堆积的脏碗
+      <sup class="footnote-ref">
+        <a href="#footnote5">[5]</a>
+        <a class="footnote-anchor" id="footnote-ref1"></a>
+      </sup>
+    </li>
+  </ul>
+</details>
+<br>
+<details>
+  <summary>有限精确</summary>
+  <ul>
+    <li>P.A.R.A只在 Project 的定义上要求精确，而其他地方的模糊性有益于信息的融合。</li>
+    <li>以标准的模板和结构记录数据耗费时间的同时往往会忽略内容本身，可控随机性能带来奇思妙想。</li>
+    <li>厨师也区分了“过程时间”和“沉浸式时间”，当食物进入大锅慢煮的时候，他们自由处理需要直接参与的事情，P.A.R.A就像锅这种工具一样，让你更专注于内容本身同时其内部不断发生化学反应，最后共同作用产生有价值的结果。</li>
+  </ul>
+</details>
+<br>
+<details>
+  <summary>复杂系统只能生长，而不能建造</summary>
+  <ul>
+    <blockquote>“一个切实可行的复杂系统势必是从一个切实可行的简单系统发展而来的。”——盖尔定律</blockquote>
+    <li>同理，P.A.R.A也不可能一步到位，需要像一颗种子一样逐渐展开，<b>并根据设计者不断变化的需求进行演化</b>。</li>
+    <li>每个人的系统都应该是独属于自己、个性化内容的，而不是千篇一律的简单复制。</li>
+  </ul>
+</details>
+<br>
+<details>
+  <summary>注重成果而非过程</summary>
+  <ul>
+    <li>“整理”往往让人将过程当作目的，沉浸于秩序带来的满足感。</li>
+    <li>P.A.R.A 中的一切服务于事情完成的成果，剥离掉不相关的任务和日常维护，保证最具操作性的 Project 优先性不受干扰。</li>
+    <li><b>mise en place</b>中同样如此，所有事件围绕一盘完成的菜肴展开，消除一切不能推荐菜肴交付的东西：
+      <ul>
+        <li>让 Task 保持活跃，便于随时拿起；</li>
+        <li>确认 Task 的复杂性，事先做好安排与配合；</li>
+        <li>与所有重视进展的人做好沟通；</li>
+        <li>疏通所有阻碍项目进展的人或事；</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+<br>
+<details>
+  <summary>接受不完美</summary>
+  <ul>
+    <li>既然 P.A.R.A 围绕真实的人类需求出发，而非理想化的需求，维护文件也不是首要任务，那么出现谬误将在所难免。</li>
+    <li>P.A.R.A 不是集中式或分散式的，而是联邦式的，信息在不同模块间不断地流动，发现问题是早晚的事情，所以并不需要像机器一样精密维护，反而将信息打乱发散是创造性思维地良好土壤，且不影响工作效率。</li>
+    <li>mise en place 主张沟通、团队合作、彼此关爱，使用单流沟通和双重确认。</li>
+  </ul>
+</details>
+<br>
+<details>
+  <summary>扁平化而非多层次</summary>
+  <ul>
+    <li>P.A.R.A 系统的特点是浅层次，传统文件系统的无限嵌套被 Project 周转的水平运动取代，文件不是被洗牌到更深的深度或看不见的地方，而是从可操作内容洗牌到 Archive。</li>
+    <li>人的“视觉空间”是有限的，利用空闲时间清理工作台，并预先准备“食材”，需要始终关注核心内容，注重结果产出。</li>
+  </ul>
+</details>
+
+## 尾声
+
+> Alan Kay 在 2012 年的 SCIx 上提到，<span style="color: #FF8C00"><u>每当你创造一个工具的时候，你既做了一个增强器又做了一个假肢。汽车在一定程度上增强了我们，同时在另一方面弱化了我们的身体</u></span>。
+
+工具只能增强「第二大脑」的建设，而只有「第一大脑」才能产生知识、智慧和思维体系。
+
 [^1]: 关于“元认知”相关内容需要进行补充。
 [^2]: 相关链接：[Dead time & Live time](https://pmthinking.notion.site/Dead-time-Live-time-b3237b1cd7fb45978f39d02f845af766)。
 [^3]: 关键词：GTD
 [^4]: 相关链接：[我们如何获取信息，组织知识](https://pmthinking.notion.site/619b68d4a9184080a9429f24724e8c0a)
+[^5]: 分类方法参考：[何谓渐进式总结：Progressive Summarization](https://pmthinking.notion.site/Progressive-Summarization-faf06977850b46a6a7de1623ebf699f2)
