@@ -51,6 +51,8 @@ export default defineUserConfig({
       count: 10,
     }),
     mdEnhancePlugin({
+      // 启用容器
+      container: true,
       // 启用脚注
       footnote: true,
     }),
